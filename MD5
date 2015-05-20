@@ -1,0 +1,15 @@
+c9b6ac93dd43f64e0cd7592a49678ec2 *DESCRIPTION
+0782a94aad2b91b58eba1056ab335150 *NAMESPACE
+1065de120208776f18c3c21db878966c *R/negbin.pow.R
+1dcee7c07adc4e445acede601936942c *R/negbin.samp.R
+d81b4507a31f66984e2ad07f488944c1 *R/poiss.pow.R
+7f4246ea5d18943deea9b423e5ae8d02 *R/poiss.samp.R
+82ed7e36a3dd87a3ce3873ba3823d7c9 *R/power.plot.R
+d5b134dd863b60b812a2f75157d551f8 *R/sample.plot.R
+df90dda55caa1829e714fdcfb241c728 *man/RSPS-package.Rd
+f77519bb7249f94d11d4e03504916ed6 *man/negbin.pow.Rd
+aeef2d9f5871d7ee4d8f392669b18847 *man/negbin.samp.Rd
+57a11c64d07a540550ac3a34f2582765 *man/poiss.pow.Rd
+10b15d0b4661df561613119aef92be62 *man/poiss.samp.Rd
+0b38a4eeb60e4a0033ff0fcfece5e417 *man/power.plot.Rd
+f17e34264faa2e2978a43032df18a01b *man/sample.plot.Rd
